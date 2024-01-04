@@ -20,4 +20,4 @@
 ## English language proficiency: Level: A2. 
  - I study the language on the resource https://www.bbc.co.uk/learningenglish.
 
-## Git: https://github.com/vladryzhov04
+
