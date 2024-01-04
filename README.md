@@ -7,14 +7,14 @@
  #### Belarusian State University (BSU) | Faculty of Applied Mathematics and Informatics (FAMCS)
 
 ## Technologies and Programming Languages:
- - C++98,17(Novice level),Microsoft UnitTest,SqlLite,OOP,Operating Systen
+ - C++98,17(Novice level),Visual Studio Unit Testing,SqlLite,OOP,Operating Systen
  - Java (Novice level)
  - Qt (Novice level)
  - Experience with virtualization: VirtualBox (novice)
  - Familiar with Algorithms and Data Structures. Familiar with sqllite.
 
 ## Skills and Methodologies:
- - Experience with operating systems: Windows, Linux.
+ - Experience with operating systems: Windows, Linux, ios, android.
  - Knowledge of development methodologies: Agile (novice), Scrum and Kanban (in the process of learning)
 
 ## English language proficiency: Level: A2. 
